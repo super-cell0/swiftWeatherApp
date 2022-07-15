@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "xxx"; ObjectID = "11O-od-raj"; */
+"11O-od-raj.text" = "xxx";
+
+/* Class = "UILabel"; text = "正在获取位置..."; ObjectID = "FP4-Y8-EEa"; */
+"FP4-Y8-EEa.text" = "正在获取位置...";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HrI-YU-3ra"; */
+"HrI-YU-3ra.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "当前城市:"; ObjectID = "PxX-RF-aEN"; */
+"PxX-RF-aEN.text" = "当前城市:";
+
+/* Class = "UITextField"; placeholder = "请输入城市名"; ObjectID = "aSd-ef-syU"; */
+"aSd-ef-syU.placeholder" = "请输入城市名";
+
+/* Class = "UILabel"; text = "20˚"; ObjectID = "blS-mu-zNP"; */
+"blS-mu-zNP.text" = "20˚";
+
+/* Class = "UIButton"; configuration.title = "查询天气"; ObjectID = "uAK-FE-vyu"; */
+"uAK-FE-vyu.configuration.title" = "查询天气";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uAK-FE-vyu"; */
+"uAK-FE-vyu.normalTitle" = "Button";
